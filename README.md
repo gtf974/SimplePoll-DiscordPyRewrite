@@ -19,4 +19,4 @@
 
 
 
-You can contact me for further explanation on Discord: Idotcom#2197
+You can contact me for further explanations on Discord: Idotcom#2197
