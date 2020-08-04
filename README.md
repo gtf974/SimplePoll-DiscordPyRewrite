@@ -12,6 +12,9 @@
 
 ###### /!\ You can go up to 9 answers but you must have at least 2 answers.
 
+###### How it works:
+* When you type in your command, the bot embeds your question and your answers. Then it will delete your message. Finally, it will react from 1 to the number of your answers. 
+
 # BOT PERMISSIONS    
 * embed_links  
 * read_messages  
