@@ -13,7 +13,8 @@
 ###### /!\ You can go up to 9 answers but you must have at least 2 answers.
 
 ###### How it works:
-* When you type in your command, the bot embeds your question and your answers. Then it will delete your message. Finally, it will react from 1 to the number of your answers. 
+* When you type in your command, the bot embeds your question and your answers. Then, it will react from 1 to the number of your answers. Finally it will delete your message.
+* The execution time is about 4 seconds for a poll with 9 answers (Tested on a bot with 100ms of latency)
 
 # BOT PERMISSIONS    
 * embed_links  
